@@ -19,7 +19,7 @@
     "@aws-cdk/core:checkSecretUsage": true,
     "@aws-cdk/core:target-partitions": ["aws", "aws-cn"],
     "globals": {
-      "appName": "academy",
+      "appName": "CI-CD-Workshop",
       "region": "<ADD REGION>"
     },
     "environments": [
